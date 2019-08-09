@@ -1,0 +1,1 @@
+Leer el taller, identificaré las entidades, los atributos de cada una y posteriormente el diagrama de clases 
